@@ -1614,7 +1614,7 @@
 		}
 
 	#footer-wrapper {
-		background: #F96E6A url("images/overlay.png");
+		background: #1C1C1C url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 	}
@@ -1680,7 +1680,7 @@
 			}
 
 		#footer-wrapper .title {
-			background: #F96E6A url("images/overlay.png");
+			background: #1C1C1C url("images/overlay.png");
 			color: #eee;
 		}
 
